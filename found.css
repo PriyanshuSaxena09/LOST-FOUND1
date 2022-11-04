@@ -1,0 +1,55 @@
+.col{
+    background-color: white;
+    height: 20cm;
+    width: 31cm;
+     margin-left: 14%;
+    margin-right: 2%;
+
+ }
+.heading{   
+    color: black;
+    text-align: center;
+
+ }
+.card{
+    margin-left:5%;
+    width: 6cm;
+    height: 8cm;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;    
+    background-position: center;
+    background-size: cover;    
+    transition: all 0.5s;
+}
+h2{
+    
+    font-size: 20px;
+    text-align: center;
+}
+.buttonnew{
+    size:15px;
+    border-width:10px;
+    border-radius: 20px;
+    margin-left: 34%;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.blue{
+    height: 4cm;
+    width: 6cm;
+    border-radius: 10px;
+}
+.c1{
+    background-color: blanchedalmond;
+}.c2{
+    background-color: blanchedalmond;
+}.c3{
+    background-color: blanchedalmond;
+}.c4{
+    background-color: blanchedalmond;
+}
